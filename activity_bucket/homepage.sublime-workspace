@@ -1,0 +1,797 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ac",
+				"ActivityBucketSort"
+			],
+			[
+				"ac",
+				"activity_thresholds"
+			],
+			[
+				"sam",
+				"sample_frequency"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"Anal",
+				"AnalyzerSerializer"
+			],
+			[
+				"word",
+				"word_frequency_analysis"
+			],
+			[
+				"user",
+				"user_mention_frequencies"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"backgourn",
+				"background-color"
+			],
+			[
+				"bu",
+				"bubble"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"data",
+				"dataObj"
+			],
+			[
+				"a",
+				"author_post_counts"
+			],
+			[
+				"mongo",
+				"mongo_compliant_key"
+			],
+			[
+				"wor",
+				"word_counts"
+			],
+			[
+				"field",
+				"field_aliases"
+			],
+			[
+				"model",
+				"model"
+			],
+			[
+				"posts",
+				"posts"
+			],
+			[
+				"Ana",
+				"AnalyzerFactory"
+			],
+			[
+				"ana",
+				"analyzer"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"bubble",
+				"bubble_chart"
+			],
+			[
+				"vi",
+				"visualization-wrapper"
+			],
+			[
+				"anal",
+				"analysis"
+			],
+			[
+				"fiel",
+				"field_aliases"
+			],
+			[
+				"collect",
+				"collection_type_field_aliases"
+			],
+			[
+				"au",
+				"author_field_name"
+			],
+			[
+				"aut",
+				"author_field_name"
+			],
+			[
+				"autho",
+				"author_field_name"
+			],
+			[
+				"coll",
+				"collector_url"
+			],
+			[
+				"fa",
+				"factories"
+			],
+			[
+				"vis",
+				"visualize-icon"
+			],
+			[
+				"url",
+				"url_map"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"all",
+				"all_analyzers"
+			],
+			[
+				"collectoin",
+				"collection"
+			],
+			[
+				"collection",
+				"collection"
+			],
+			[
+				"filter",
+				"filter"
+			],
+			[
+				"job",
+				"job_type"
+			],
+			[
+				"analy",
+				"analyzer"
+			],
+			[
+				"req",
+				"required_analysis"
+			],
+			[
+				"visuali",
+				"visualization_type"
+			],
+			[
+				"set",
+				"setData"
+			],
+			[
+				"visual",
+				"visualization_type"
+			],
+			[
+				"Vi",
+				"VisualizerFactory"
+			],
+			[
+				"fi",
+				"field_aliases"
+			],
+			[
+				"Au",
+				"AuthorPostsAnalysis"
+			],
+			[
+				"get_",
+				"get_field_aliases"
+			],
+			[
+				"post",
+				"post_counts"
+			],
+			[
+				"get",
+				"get_stopwords"
+			],
+			[
+				"factory",
+				"factory"
+			],
+			[
+				"__",
+				"__class__"
+			],
+			[
+				"Word",
+				"WordFrequencyAnalyzer"
+			],
+			[
+				"Analyzer",
+				"Analyzer"
+			],
+			[
+				"html",
+				"html_stopstrings"
+			],
+			[
+				"analyzer",
+				"analyzer_url"
+			],
+			[
+				"raw",
+				"raw_data"
+			],
+			[
+				"analysis",
+				"analysis_set"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"first",
+				"first_analysis"
+			],
+			[
+				"Analysis",
+				"Analysis"
+			],
+			[
+				"request",
+				"request"
+			],
+			[
+				"Re",
+				"RequestWithMethod"
+			],
+			[
+				"disqus",
+				"disqus_comment"
+			],
+			[
+				"top",
+				"top_fifty"
+			],
+			[
+				"dis",
+				"disqus_comment"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"device",
+				"device"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"record",
+				"record"
+			],
+			[
+				"Device",
+				"Device"
+			],
+			[
+				"nes",
+				"nested_field"
+			],
+			[
+				"A",
+				"ALIAS_MAP"
+			],
+			[
+				"colle",
+				"collection_id"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"status",
+				"status"
+			],
+			[
+				"response",
+				"response_dict"
+			],
+			[
+				"jo",
+				"job_id"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"max",
+				"max_date"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"resque",
+				"resque_url"
+			],
+			[
+				"visualizatio",
+				"visualizationAnalyzerMap"
+			],
+			[
+				"visua",
+				"visualizationAnalyzerMap"
+			],
+			[
+				"visu",
+				"visualization_type"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"visualization",
+				"visualization_type"
+			],
+			[
+				"analyz",
+				"analyzer_id"
+			],
+			[
+				"default",
+				"defaultdict"
+			],
+			[
+				"data-",
+				"data-visualization-type"
+			],
+			[
+				"icon",
+				"icon_string"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"this",
+				"this"
+			],
+			[
+				"tag",
+				"tag_cloud"
+			],
+			[
+				"visualizer",
+				"visualizers"
+			],
+			[
+				"ic",
+				"icon_class"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"V",
+				"Visualizer"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"an",
+				"analyzers"
+			],
+			[
+				"collection_t",
+				"collection_type_field_aliases"
+			],
+			[
+				"available",
+				"available_analysis"
+			],
+			[
+				"collection_",
+				"collection_type_field_aliases"
+			],
+			[
+				"col",
+				"collection_type"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"d",
+				"datepicker"
+			],
+			[
+				"date",
+				"date"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/pannellr/sandbox/homepage/index.html",
+			"settings":
+			{
+				"buffer_size": 8257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/pannellr/sandbox/homepage/js/homepage.js",
+			"settings":
+			{
+				"buffer_size": 5768,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pannellr/sandbox/homepage",
+		"/home/pannellr/sandbox/homepage/js"
+	],
+	"file_history":
+	[
+		"/var/www/html/greyscale/css/homepage.css",
+		"/var/www/html/greyscale/index.html",
+		"/home/pannellr/sandbox/python/activity_analyzer/activity_bucket/views.py",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/models/twitter_tweet.rb",
+		"/home/pannellr/sandbox/python/apus/templates/collection/collection_detail.html",
+		"/home/pannellr/sandbox/python/apus/static/collections/functions.js",
+		"/home/pannellr/sandbox/python/apus/analyzer/views.py",
+		"/home/pannellr/sandbox/python/apus/analyzer/analyzers.py",
+		"/home/pannellr/sandbox/python/apus/analyzer/serializers.py",
+		"/home/pannellr/sandbox/python/apus/templates/visualizations/visualization_show.html",
+		"/home/pannellr/sandbox/python/apus/templates/collection/collection_list.html",
+		"/home/pannellr/sandbox/rails_projects/haulm/config/worker: rake resque:work QUEUE=\"*\"",
+		"/home/pannellr/sandbox/python/apus/collection/views.py",
+		"/home/pannellr/sandbox/python/apus/visualizations/views.py",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/job_status_controller.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/job_status_controller.rb~",
+		"/home/pannellr/sandbox/python/apus/core/models.py",
+		"/home/pannellr/sandbox/python/apus/analyzer/urls.py",
+		"/home/pannellr/sandbox/python/apus/static/collections/styles.css",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/jobs/disqus_collector.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/models/disqus_comment.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/jobs/author_posts_analyzer.rb",
+		"/home/pannellr/sandbox/python/apus/analyzer/factory.py",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/models/fb_post.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/jobs/analyzer_job.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/jobs/word_frequency_analyzer.rb",
+		"/home/pannellr/sandbox/python/apus/collection/signals.py",
+		"/home/pannellr/sandbox/python/apus/collection/models.py",
+		"/home/pannellr/sandbox/python/apus/analyzer/models.py",
+		"/home/pannellr/sandbox/rails_projects/haulm/config/routes.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/config/mongoid.yml",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/fb_post_controller.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/registered_jobs_controller.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/disqus_comment_controller.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/application_controller.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/config/application.rb",
+		"/home/pannellr/sandbox/python/apus/collection/forms.py",
+		"/home/pannellr/sandbox/python/apus/apus/settings.py",
+		"/home/pannellr/sandbox/rails_projects/haulm/config/database.yml",
+		"/home/pannellr/sandbox/python/apus/apus/base.py",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/jobs/facebook_collector.rb",
+		"/home/pannellr/sandbox/python/EMACS/emacs/emacs/settings.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/monitor/serializers.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/device/views.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/device/forms.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/monitor/views.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/manager/models.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/monitor/urls.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/manager/static/manager/functions.js",
+		"/home/pannellr/sandbox/python/EMACS/emacs/manager/static/manager/styles.css",
+		"/home/pannellr/sandbox/python/EMACS/emacs/manager/forms.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/templates/monitor/index.html",
+		"/home/pannellr/sandbox/python/EMACS/emacs/templates/base.html",
+		"/home/pannellr/sandbox/python/EMACS/emacs/templates/manager/index.html",
+		"/home/pannellr/sandbox/python/EMACS/emacs/emacs/urls.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/templates/device/device_form.html",
+		"/home/pannellr/sandbox/python/EMACS/emacs/templates/manager/usersetting_form.html",
+		"/home/pannellr/sandbox/python/EMACS/emacs/manager/urls.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/templates/manager/settings.html",
+		"/home/pannellr/sandbox/python/EMACS/emacs/device/models.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/manager/views.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/templates/monitor/record_list.html",
+		"/home/pannellr/sandbox/python/EMACS/emacs/monitor/models.py",
+		"/home/pannellr/sandbox/python/EMACS/emacs/README.md",
+		"/home/pannellr/sandbox/python/EMACS/emacs/device/urls.py",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/models/registered_job.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/fb_page_controller.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/Gemfile",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/collection_controller.rb",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/jobs/job_factory.rb",
+		"/home/pannellr/sandbox/python/apus/apus/urls.py",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/registered_jobs_controller.rb~",
+		"/home/pannellr/sandbox/python/apus/templates/base.html",
+		"/home/pannellr/sandbox/python/apus/collection/urls.py",
+		"/home/pannellr/sandbox/rails_projects/haulm/app/controllers/disqus_collector_controller.rb",
+		"/home/pannellr/sandbox/python/apus/apus/dev-pannellr.py",
+		"/home/pannellr/sandbox/python/apus/templates/registration/password_reset_email.html",
+		"/home/pannellr/sandbox/python/apus/templates/registration/login.html",
+		"/home/pannellr/sandbox/python/apus/visualizations/models.py",
+		"/home/pannellr/sandbox/python/apus/visualizations/urls.py",
+		"/home/pannellr/sandbox/python/apus/analyzer/routers.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"me",
+			"-body",
+			"/img",
+			"console.log",
+			"all_subclasses",
+			"analyzer_map",
+			"int",
+			"measure",
+			"measure\n",
+			"\")\n",
+			"slepp",
+			"showSpinner",
+			"STATIC_URL",
+			"clean_fr",
+			"clean_",
+			"cleacn",
+			"clean",
+			"clean_fre",
+			"alert",
+			"url",
+			"alert",
+			"getRaw",
+			".visualization",
+			".visualiation",
+			".visualize-icon",
+			"WordFre",
+			"WordFrequencyAnalyzer",
+			"dynamic_form.save",
+			"datepicker"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/pannellr/sandbox/homepage/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6092,
+								6092
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1485.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/pannellr/sandbox/homepage/js/homepage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								730,
+								730
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "homepage.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

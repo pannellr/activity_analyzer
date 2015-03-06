@@ -1,0 +1,21 @@
+
+{% load staticfiles %}
+<!doctype html>
+<html>
+<head>
+    <title>Apus</title>
+    <script type="text/javascript" src="{% static  'js/jquery.js' %}"></script>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/styles.css' %}">
+    <script type="text/javascript" src="{% static  'js/functions.js' %}"></script>
+</head>
+ 
+<body>
+      
+	   {% block content %}{% endblock %}
+     {% block content-related %}{% endblock %}
+    
+
+  
+
+</body>
+</html>
